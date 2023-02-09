@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Café",
+        "imageUrl": "http://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 100,
+        "id": 2,
+        "title": "Leche",
+        "imageUrl": "http://picsum.photos/id/29/600"
+    },
+    {
+        "precio": 700,
+        "id": 3,
+        "title": "Tenedores",
+        "imageUrl": "http://picsum.photos/id/23/600"
+    },
+    {
+        "precio": 150,
+        "id": 4,
+        "title": "Bolilo",
+        "imageUrl": "http://picsum.photos/id/100/600"
+    },
+    {
+        "precio": 50,
+        "id": 5,
+        "title": "Agua",
+        "imageUrl": "http://picsum.photos/id/1/600"
+    },
+    {
+        "precio": 200,
+        "id": 6,
+        "title": "Azúcar",
+        "imageUrl": "http://picsum.photos/id/35/600"
+    },
+    {
+        "precio": 300,
+        "id": 7,
+        "title": "Manzanas",
+        "imageUrl": "http://picsum.photos/id/52/600"
+    },
+    {
+        "precio": 10500,
+        "id": 8,
+        "title": "Escritorio",
+        "imageUrl": "http://picsum.photos/id/27/600"
+    },
+    {
+        "precio": 5000,
+        "id": 9,
+        "title": "Celulares",
+        "imageUrl": "http://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 300,
+        "id": 10,
+        "title": "Pastel",
+        "imageUrl": "http://picsum.photos/id/98/600"
+    }
+]
